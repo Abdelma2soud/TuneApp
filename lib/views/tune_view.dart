@@ -32,13 +32,4 @@ class TuneView extends StatelessWidget {
       ),
     );
   }
-
-  // List<TuneItem> getTuneItems() {
-  //   List<TuneItem> items = [];
-
-  //   for (var color in tuneColors) {
-  //     items.add(TuneItem(color: color));
-  //   }
-  //   return items;
-  // }
 }
